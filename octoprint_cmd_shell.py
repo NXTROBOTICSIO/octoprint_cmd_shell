@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import cmd, sys, requests, json, ConfigParser
+import cmd, requests, json, ConfigParser
 
 #--------------------------------------------------------- APPLICATION VARIABLE SETUP BEGIN
 # instantiate ini file parser and read setting(s) from file
