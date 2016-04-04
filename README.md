@@ -22,7 +22,7 @@ About
 
 - **Customizable**:
 
-  The Python code in OPS is structured using object-oriented code to make 
+  The Python code in OCS is structured using object-oriented code to make 
   it simple to contribute new functionality to OCS.
 
 - **Pythonic**:
