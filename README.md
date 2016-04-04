@@ -36,7 +36,3 @@ About
 
   Octoprint-Shell by Jeff Debrosse is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-
-.. _Python: http://www.python.org
-
-
