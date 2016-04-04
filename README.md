@@ -1,13 +1,8 @@
-# Octoprint Cmd Shell
-Command shell for Octoprint server. This can be run locally on the server on from a separate/remote machine. 
+# About the Octoprint Cmd Shell
 
-About
-=====
-
-  Octoprint-Cmd-Shell (OCS) is an environment was written in the
-  Python_ programming language with the aim of querying, and managing 
-  Octoprint-controlled 3D print jobs. The Octoprint-shell has been 
-  constructed with a number of "design goals" that make it:
+  Octoprint-Cmd-Shell (OCS) is a command shell environment (like bash) that was written in the Python_ programming language   with the aim of querying, and managing Octoprint-controlled 3D print jobs. The OCS can be run locally on the Octoprint
+  server on from a separate/remote machine. The Octoprint-shell has been constructed with a number of "design goals" that
+  make it:
 
 
 - **Easy to use**:
