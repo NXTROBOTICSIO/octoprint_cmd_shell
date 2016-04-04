@@ -1,0 +1,29 @@
+=============
+Release notes
+=============
+
+
+Version 0.3
+==============
+
+04 Apr 2016: 
+
+* :ref:`old trajectory` files can no longer be used.  See :ref:`convert`.
+
+
+Version 0.2
+=============
+
+28 Mar 2016:
+
+* Octopus interface added (experimental).
+
+
+Version 0.1
+=============
+
+14 Mar 2016: 
+
+* Python 2.6 is now a requirement.
+* We're now using BuildBot for continuous integration:
+
