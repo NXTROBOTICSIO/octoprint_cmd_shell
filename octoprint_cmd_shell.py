@@ -19,6 +19,8 @@ except:
   print("\nError: octoprint.ini does not exist in the local directory or the file format is incorrect!\n")
   exit(1)
 
+# the below variable will be used in the near future (feel free to remove if it bothers you). It's a good
+# reminder and placeholder. 
 apiHeaders = {
     'X-Api-Key': apiKey
 }
