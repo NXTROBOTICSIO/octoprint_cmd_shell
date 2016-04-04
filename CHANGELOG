@@ -8,7 +8,7 @@ Version 0.3
 
 04 Apr 2016: 
 
-* :ref:`old trajectory` files can no longer be used.  See :ref:`convert`.
+* Uploaded to Github and removed the 'sys' module since it was no longer needed.
 
 
 Version 0.2
@@ -16,7 +16,7 @@ Version 0.2
 
 28 Mar 2016:
 
-* Octopus interface added (experimental).
+* Added local file listing.
 
 
 Version 0.1
@@ -24,6 +24,6 @@ Version 0.1
 
 14 Mar 2016: 
 
-* Python 2.6 is now a requirement.
-* We're now using BuildBot for continuous integration:
+* Decided that a command shell would be convenient for querying Octoprint while logged into an SSH session remotely 
+  (which is rather typical of my day). 
 
